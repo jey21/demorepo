@@ -7,6 +7,8 @@ public class DemoRepo {
 
 		
 		System.out.println("hello frmo demo repo");
+		
+		System.out.println("data in romte repo only repo");
 	}
 
 }
